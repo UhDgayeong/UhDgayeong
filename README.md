@@ -1,5 +1,6 @@
 ### 안녕하세요 김가영입니다. 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?UhDgayeong=biud436&show_icons=true)
 <!--
 **UhDgayeong/UhDgayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
