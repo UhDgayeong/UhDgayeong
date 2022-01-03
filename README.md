@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UhDgayeong&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhDgayeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UhDgayeong)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **UhDgayeong/UhDgayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
